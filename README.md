@@ -17,13 +17,13 @@ Since `react-simple-maps` leaves DOM work to react, it can also easily be used w
 To install `react-simple-maps`
 
 ```bash
-$ npm install react-simple-maps
+$ npm install @omtanke/react-simple-maps prop-types
 ```
 
 ...or if you use yarn:
 
 ```bash
-$ yarn add react-simple-maps
+$ yarn add @omtanke/react-simple-maps prop-types
 ```
 
 ### Usage
