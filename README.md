@@ -1,6 +1,8 @@
 <img src="https://img.shields.io/bundlephobia/minzip/react-simple-maps?color=%2328cb95&label=gzip" />
 
-# react-simple-maps
+# @omtanke/react-simple-maps
+
+Note: React 19 is supported.
 
 Create beautiful SVG maps in react with d3-geo and topojson using a declarative api.
 
