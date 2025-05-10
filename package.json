@@ -1,6 +1,9 @@
 {
   "name": "@omtanke/react-simple-maps",
-  "version": "3.0.0-omtanke.3",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "version": "3.0.0-omtanke.4",
   "description": "An svg map chart component built with and for React",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
